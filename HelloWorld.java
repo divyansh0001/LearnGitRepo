@@ -1,6 +1,6 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("Helloworld mine");
+		System.out.println("checking for commit");
 }
 	
 }
