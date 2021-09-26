@@ -1,7 +1,7 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("checking for commit");
-		System.out.println("checking for commit");
+		System.out.println("Hello world");
+		System.out.println("commit in dev branch");
 		
 }
 	
